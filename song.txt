@@ -1,2 +1,4 @@
 some txt
 second line
+third line
+forth line
