@@ -2,3 +2,6 @@ some txt
 second line
 third line
 forth line
+
+new txt
+even newer txt
